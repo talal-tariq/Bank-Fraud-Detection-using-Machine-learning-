@@ -1,5 +1,5 @@
 
-# Bank App
+# Bank Fraud Detection App
 ## Banking app using python, pyQt5 and SQLite for database
 
 
